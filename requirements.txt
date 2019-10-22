@@ -53,7 +53,7 @@ pandocfilters==1.4.2
 parso==0.1.0
 pew==1.1.0
 pickleshare==0.7.4
-Pillow==4.3.0
+Pillow==6.2.0
 pipenv==8.3.2
 prompt-toolkit==1.0.15
 psutil==5.3.1
