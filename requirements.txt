@@ -9,7 +9,7 @@ colorlog==3.1.0
 cycler==0.10.0
 decorator==4.1.2
 dj-database-url==0.4.2
-Django==1.11.7
+Django==1.11.29
 djangorestframework==3.7.1
 entrypoints==0.2.3
 flake8==3.5.0
